@@ -13,3 +13,5 @@ There is two way to use GLCM for mesuring texture:
 2. crete a window, apply glcm on the widow pixels and by this scan the entire image. Here GLCM will give a 2D matrix approximatly close to the size of input image based on how this window has been used. Here more detail changes of texture can be found. 
 
 Both of these ways has been implemented in the .py file.
+
+glcmFeatureExtend.py -> addes chage of step size into 10 by 10 window with different angles
