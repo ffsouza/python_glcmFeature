@@ -18,6 +18,6 @@ glcmFeatureExtend.py -> addes chage of step size into 10 by 10 window with diffe
 
 
 glcmAnalysis.py-> presents codes for analyzing testPattern images. It will eventually help to naroow down how to inturprete the results of GLCM.
-A ppt presentation is also presented here to quantify the results of GLCM analysis. (glcmTutorialGraph)
+A ppt presentation is also presented here to quantify the results of GLCM analysis. (glcmTestPattern)
 
 
